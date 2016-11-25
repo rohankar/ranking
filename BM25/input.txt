@@ -1,1 +1,5 @@
-
+'How to Create a Mind by Ray Kurzweil', 
+'The Emotion Machine by Marvin Minsky',
+'Foundations of Statistical Natural Language Processing by Christopher D. Manning and Hinrich Schuetze'
+'Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig',
+'On Intelligence by Jeff Hawkins' 
